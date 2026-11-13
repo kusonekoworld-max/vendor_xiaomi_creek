@@ -1897,7 +1897,6 @@ PRODUCT_PACKAGES += \
     android.hardware.radio.config.xml \
     android.hardware.security.keymint-service-qti.xml \
     android.hardware.thermal@2.0-service.qti.xml \
-    c2_manifest_vendor.xml \
     c2_manifest_vendor_audio.xml \
     deviceinfo-saidl.xml \
     manifest_android.hardware.drm-service.widevine.xml \
